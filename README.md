@@ -26,35 +26,6 @@ Full-Stack Developer with **3+ years of experience** delivering **60+ scalable w
 
 ---
 
-## 💼 Professional Experience
-
-### 👨‍💻 Full Stack Developer | **Iberis**
-**06/2024 - Present** | Sousse, Tunisia
-
-- Built dynamic web interfaces using **React** for seamless teacher and student exam management
-- Designed APIs with **NestJS** and managed database/storage with **Firebase**
-- Implemented AI models for automated exam correction, hosted on **Google Cloud Platform (GCP)**
-- Ensured high performance, data security, and service availability
-
-### 👨‍💻 Full Stack Developer | **Wamia**
-**06/2023 - 06/2024** | Sousse, Tunisia
-
-- Redesigned high-traffic marketplace using **Next.js**, **Node.js**, and **MySQL**, improving performance by **40%**
-- Implemented efficient database queries and caching strategies
-- Built and integrated **REST & GraphQL APIs** for scalable backend
-- Developed cross-platform mobile app using **Expo (React Native)**
-
-### 👨‍💻 Full Stack Developer | **Solyntek**
-**08/2022 - 05/2023** | Canada
-
-- Contributed to AI-powered workplace safety system with ML model integration
-- Optimized SQL queries and **Redis** caching for improved performance
-- Developed scalable **FastAPI** and **React**-based system for real-time monitoring
-- Built cross-platform mobile app for health monitoring with AI-powered features
-- Integrated IoT support for real-time sensor data and emergency alerts
-
----
-
 ## 🎓 Education
 
 - **Master in Data Science** | Faculty of Sciences of Monastir *(09/2022 - 06/2024)*
@@ -112,12 +83,12 @@ Full-Stack Developer with **3+ years of experience** delivering **60+ scalable w
 ## 📊 GitHub Stats
 
 <div align="center">
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=declared-as-ala&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/declared-as-ala)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=declared-as-ala&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=declared-as-ala&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/declared-as-ala)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=declared-as-ala&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=declared-as-ala&theme=radical&hide_border=true&background=0D1117)
+[![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=declared-as-ala&theme=radical&hide_border=true&background=0D1117)](https://github.com/declared-as-ala)
 
 </div>
 
